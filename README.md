@@ -70,3 +70,5 @@ puffin_demo
 
 ## Demo VS Full version:
 The demo version is fully functional as the paid version, but does not require a subscription.
+
+- ## UPDATE: Puffin Is Down for a Server Update from  June 6, 2024 to July 31, 2024
